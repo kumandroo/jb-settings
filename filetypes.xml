@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="DateFilterHeaderCell" type="JavaScript" />
+      <mapping pattern="ProductInstanceEditInput" type="JavaScript" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="TypeScript JSX" />
